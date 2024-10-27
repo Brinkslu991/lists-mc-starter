@@ -15,7 +15,7 @@ Write a Python script that uses **multiple lists** to generate a simple First Se
 
 - Begin with empty lists
 
-- You choose the student names, school name, course name, and the four (4) test scores per student Python will use to calculate each student's **average** test score.
+- You choose the student names, school name, course name, and the four (4) test scores **per student** Python will use to calculate each student's **average** test score.
 
 - **REQUIRED**: Use the `append()` method to add each student's data to the correct list.
 
