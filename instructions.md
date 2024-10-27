@@ -19,7 +19,7 @@ Write a Python script that uses **multiple lists** to generate a simple First Se
 
 - **REQUIRED**: Use the `append()` method to add each student's data to the correct list.
 
-- **REQUIRED**: Use the `len()` and `sum()` functions to help Python calculate each student's **average** test score.
+- **REQUIRED**: Use the `len()` and `sum()` functions as needed to help Python calculate each student's **average** test score.
 
 - Format your grade reports as shown.
 
